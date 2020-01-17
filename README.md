@@ -1,2 +1,2 @@
 # C Programs
-Progrmas in C 
+Programs in C 
