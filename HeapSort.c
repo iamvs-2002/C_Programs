@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include <conio.h>
 
 void Adjust(int Heap_of_Numbers[],int i)  /*Function to arrange the elements in the heap*/
 
