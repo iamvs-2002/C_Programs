@@ -1,6 +1,8 @@
 /*
 The Eight Queen Problem, also known as Eight Queen Puzzle, is a problem of placing eight queens on an 8 x 8 chessboard so that none of them attack one another. 
 By attacking, we mean no two are in the same row, column or diagonal.
+Eight Queen Problem is a form of more generalized problem known as N Queen Problem or N Queen Puzzle,
+where you have to place the N queens on an N x N chessboard such a way that none of them attack one another.
 */
 
 #include <stdio.h>   
